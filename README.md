@@ -1,4 +1,7 @@
 # Student Performance Prediction System
+**Live Demo:** https://student-performance-prediction-kavya.streamlit.app
+
+**GitHub:** https://github.com/skavyasri156-coder/student-performance-prediction
 
 A machine learning web application that predicts whether a student's
 performance is **Good**, **Average** or **Poor**, built with Python,
